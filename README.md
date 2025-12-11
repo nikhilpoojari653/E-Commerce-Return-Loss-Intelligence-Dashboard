@@ -1,7 +1,7 @@
-# E-Commerce-Return-Loss-Intelligence-Dashboard
+# E-Commerce Return Loss Intelligence Dashboard
 A Data Analytics project using SQL + Power BI to identify high-return patterns, refund losses & operational bottlenecks
 
-
+![Image](https://github.com/user-attachments/assets/981406a8-a7d8-40e9-bbcb-b19a8115b8ad)
 
 🚀 Project Overview
 
